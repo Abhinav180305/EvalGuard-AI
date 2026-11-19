@@ -1,4 +1,4 @@
-# RAG Evaluation Harness
+# EvalGuard-AI
 
 A fully local framework for comparing retrieval strategies in a RAG pipeline. The same 100 questions go through each strategy, every answer is scored on six metrics, input/output guardrails are enforced, and each strategy is tracked as a separate experiment in LangSmith.
 
